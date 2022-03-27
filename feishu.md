@@ -5,8 +5,8 @@
 ## 飞书 Workshop
 
 - 时间：2022年3月5日 下午3点 - 4点
-- 录像：https://utcssa-ec.feishu.cn/minutes/obcnmvd88a47yc7lu61x6kf7
-- 会议笔记：https://utcssa-ec.feishu.cn/wiki/wikcne0cbi7nMFO2n5JzrzocLVh
+- 录像：[https://utcssa-ec.feishu.cn/minutes/obcnmvd88a47yc7lu61x6kf7](https://utcssa-ec.feishu.cn/minutes/obcnmvd88a47yc7lu61x6kf7)
+- 会议笔记：[https://utcssa-ec.feishu.cn/wiki/wikcne0cbi7nMFO2n5JzrzocLVh](https://utcssa-ec.feishu.cn/wiki/wikcne0cbi7nMFO2n5JzrzocLVh)
 
 ## 加入飞书
 
@@ -14,7 +14,7 @@
 
 以下方法任选其一；注册并申请加入后，须等待飞书管理员审批。
 
-- **【方法一】** 邀请链接：https://utcssa-ec.feishu.cn/invite/member/A52Jj5Wp-xoXfWcg （需要使用能够接收验证短信的 `+86` 手机号注册，若不可用请使用方法二）
+- **【方法一】** 邀请链接：[https://utcssa-ec.feishu.cn/invite/member/A52Jj5Wp-xoXfWcg](https://utcssa-ec.feishu.cn/invite/member/A52Jj5Wp-xoXfWcg) （需要使用能够接收验证短信的 `+86` 手机号注册，若不可用请使用方法二）
 - **【方法二】** 飞书企业邀请码：`XNVQRDQJ`（帮助：[如何使用企业邀请码](https://www.feishu.cn/hc/zh-CN/articles/360040931334)）
 
 ### 2. 批量导入成员

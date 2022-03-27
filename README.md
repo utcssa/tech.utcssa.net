@@ -1,6 +1,6 @@
 # UTCSSA 技术部
 
-- [飞书 Workshop](./feishu.md)
+- [飞书](./feishu.md)
 
 ---
 
