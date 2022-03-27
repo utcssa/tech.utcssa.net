@@ -1,6 +1,6 @@
 # UTCSSA 技术部
 
-- 🌄 [Slides](./slides/README.md)
+- [飞书 Workshop](./feishu.md)
 
 ---
 
